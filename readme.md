@@ -1,2 +1,3 @@
-## this is git version practise 
-## git course
+this is git version practise
+not
+this is easy
