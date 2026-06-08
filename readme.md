@@ -1,3 +1,1 @@
-this is git version practise
-not
-this is easy
+thsi is my sample git practise :)
